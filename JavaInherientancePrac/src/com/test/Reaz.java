@@ -11,6 +11,7 @@ public class Reaz extends ThirdClass {
 	 */
 	public static void main(String[] args) {
 		myName();
+		//asdsadsad
 
 	}
 
